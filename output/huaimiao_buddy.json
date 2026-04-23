@@ -1,0 +1,54 @@
+{
+  "userId": "huaimiao",
+  "seed": 1368983861,
+  "name": "闪电狮子君",
+  "species": {
+    "id": 9,
+    "name": "狮子",
+    "nameEn": "Lion",
+    "emoji": "🦁",
+    "ascii": [
+      "    /\\\\   /\\\\",
+      "   /  \\\\ /  \\",
+      "  |    |    |",
+      "  |  o   o  |",
+      "   \\\\   ~   /",
+      "    |  |  |"
+    ],
+    "personality": "王者风范，但遇到 CSS 会挠头",
+    "habitat": "生产环境的高峰",
+    "favorite": "领导团队和处理异常"
+  },
+  "rarity": {
+    "name": "Common",
+    "nameCn": "普通",
+    "stars": "★",
+    "color": "#B0B0B0",
+    "description": "平凡的起点，无限的可能"
+  },
+  "shiny": false,
+  "attributes": {
+    "DEBUGGING": 90,
+    "WISDOM": 94,
+    "PATIENCE": 64,
+    "CHAOS": 52,
+    "SNARK": 19
+  },
+  "equipment": {
+    "hat": {
+      "name": "无",
+      "nameEn": "None",
+      "emoji": "",
+      "ascii": "",
+      "description": "自然本色，不加修饰"
+    },
+    "eyes": {
+      "name": "眯眼",
+      "nameEn": "Squint",
+      "emoji": "😑",
+      "ascii": "- -",
+      "description": "审视你的代码中..."
+    }
+  },
+  "generatedAt": "2026-04-23T10:35:50.375Z"
+}
