@@ -1,0 +1,293 @@
+{
+  "species": [
+    {
+      "id": 1,
+      "name": "猫咪",
+      "nameEn": "Cat",
+      "emoji": "🐱",
+      "ascii": [
+        "  /\\\\_/\\\\  ",
+        " ( o.o ) ",
+        "  > ^ <  "
+      ],
+      "personality": "傲娇但忠诚，喜欢在你写代码时趴在键盘上",
+      "habitat": "温暖的显示器旁边",
+      "favorite": "字符串和鼠标指针"
+    },
+    {
+      "id": 2,
+      "name": "狗狗",
+      "nameEn": "Dog",
+      "emoji": "🐶",
+      "ascii": [
+        "  / \\\\__",
+        " (    @\\\\___",
+        "  /         O",
+        " /   (_____/",
+        "/_____/   U"
+      ],
+      "personality": "热情过度，每次编译成功都想庆祝",
+      "habitat": "你的脚边",
+      "favorite": "提交成功的绿色对勾"
+    },
+    {
+      "id": 3,
+      "name": "狐狸",
+      "nameEn": "Fox",
+      "emoji": "🦊",
+      "ascii": [
+        "   /\\\\   /\\\\",
+        "  (  \\\\./  )",
+        "   \\\\  W  /",
+        "    \\\\   /",
+        "     | |"
+      ],
+      "personality": "狡猾聪明，总能发现代码里的 edge case",
+      "habitat": "Git 分支的深处",
+      "favorite": "复杂的正则表达式"
+    },
+    {
+      "id": 4,
+      "name": "兔子",
+      "nameEn": "Rabbit",
+      "emoji": "🐰",
+      "ascii": [
+        "  (\\\\(\\\\",
+        "  ( -.-)",
+        "  o_(')(')",
+        "     ww"
+      ],
+      "personality": "跳跃式思维，但偶尔会陷入无限循环",
+      "habitat": "递归函数的栈帧里",
+      "favorite": "快速排序和胡萝卜"
+    },
+    {
+      "id": 5,
+      "name": "熊",
+      "nameEn": "Bear",
+      "emoji": "🐻",
+      "ascii": [
+        "   (()())",
+        "  (*(oo)*)",
+        "  (\\\\__/)",
+        "   |  |",
+        "   |  |"
+      ],
+      "personality": "沉稳可靠，是调试时的精神支柱",
+      "habitat": "冬眠模式（省电模式）",
+      "favorite": "大段注释和蜂蜜"
+    },
+    {
+      "id": 6,
+      "name": "熊猫",
+      "nameEn": "Panda",
+      "emoji": "🐼",
+      "ascii": [
+        "  .-;;;;-.",
+        " /        \\",
+        "|  O    O  |",
+        "|    __    |",
+        " \\\\  '--'  /",
+        "  '-....-'"
+      ],
+      "personality": "看似懒散，实则在深度思考架构问题",
+      "habitat": " Bamboo（竹子）架构图旁边",
+      "favorite": "黑白配色方案和竹子零食"
+    },
+    {
+      "id": 7,
+      "name": "考拉",
+      "nameEn": "Koala",
+      "emoji": "🐨",
+      "ascii": [
+        "  (@)(@)",
+        "  ( oo )",
+        "   \\\\--/",
+        "   _||_",
+        "  /____\\\\"
+      ],
+      "personality": "永远 sleepy，但代码审查时出奇地清醒",
+      "habitat": "依赖树的顶端",
+      "favorite": "Eucalyptus（尤加利）味的代码注释"
+    },
+    {
+      "id": 8,
+      "name": "老虎",
+      "nameEn": "Tiger",
+      "emoji": "🐯",
+      "ascii": [
+        "   /\\\\__/\\\\",
+        "  ( o  o )",
+        "  (  ||  )",
+        "   \\\\~~~~/",
+        "    |  |"
+      ],
+      "personality": "凶猛高效，代码优化时绝不手软",
+      "habitat": "性能瓶颈的丛林",
+      "favorite": "O(1) 复杂度和 stripes"
+    },
+    {
+      "id": 9,
+      "name": "狮子",
+      "nameEn": "Lion",
+      "emoji": "🦁",
+      "ascii": [
+        "    /\\\\   /\\\\",
+        "   /  \\\\ /  \\",
+        "  |    |    |",
+        "  |  o   o  |",
+        "   \\\\   ~   /",
+        "    |  |  |"
+      ],
+      "personality": "王者风范，但遇到 CSS 会挠头",
+      "habitat": "生产环境的高峰",
+      "favorite": "领导团队和处理异常"
+    },
+    {
+      "id": 10,
+      "name": "企鹅",
+      "nameEn": "Penguin",
+      "emoji": "🐧",
+      "ascii": [
+        "    .-.",
+        "   (o o)",
+        "   | O \\",
+        "   \\\\   /",
+        "    '-'"
+      ],
+      "personality": "冷静理性，喜欢在冰冷水冷静分析 bug",
+      "habitat": "南极（服务器的冷却系统）",
+      "favorite": "Linux 和冰水"
+    },
+    {
+      "id": 11,
+      "name": "猫头鹰",
+      "nameEn": "Owl",
+      "emoji": "🦉",
+      "ascii": [
+        "   ,___",
+        "  [O.o]",
+        "  /)__)",
+        " -\\\\\"--\\\\\"-"
+      ],
+      "personality": "智慧长者，深夜编程时的最佳陪伴",
+      "habitat": "深夜的 IDE 旁边",
+      "favorite": "文档和知识库"
+    },
+    {
+      "id": 12,
+      "name": "青蛙",
+      "nameEn": "Frog",
+      "emoji": "🐸",
+      "ascii": [
+        "   @..@",
+        "  (----)",
+        " ( >__< )",
+        " ^^ ~~ ^^"
+      ],
+      "personality": "两栖高手，前后端通吃",
+      "habitat": "池塘（全栈项目）",
+      "favorite": "REST API 和荷叶"
+    },
+    {
+      "id": 13,
+      "name": "蜥蜴",
+      "nameEn": "Lizard",
+      "emoji": "🦎",
+      "ascii": [
+        "    /\\\\__/\\\\",
+        "   /      \\",
+        "  |  o  o  |",
+        "   \\\\  ~~  /",
+        "    \\\\____/"
+      ],
+      "personality": "敏捷灵活，能快速适应各种框架",
+      "habitat": "热键和快捷键之间",
+      "favorite": "热重载和阳光"
+    },
+    {
+      "id": 14,
+      "name": "刺猬",
+      "nameEn": "Hedgehog",
+      "emoji": "🦔",
+      "ascii": [
+        "   .-''''-.",
+        "  /   ..   \\",
+        " |   o  o   |",
+        "  \\\\  ~~   /",
+        "   '-....-'"
+      ],
+      "personality": "自我保护意识强，但内心温柔",
+      "habitat": "类型系统的保护壳里",
+      "favorite": "TypeScript 和苹果"
+    },
+    {
+      "id": 15,
+      "name": "章鱼",
+      "nameEn": "Octopus",
+      "emoji": "🐙",
+      "ascii": [
+        "    .-.",
+        "   (o o)",
+        "   (| |)",
+        "  /| | |\\\\",
+        " (* | | | *)",
+        "  \\\\/\\\\/\\\\/\\\\/"
+      ],
+      "personality": "多线程大师，同时处理八个任务",
+      "habitat": "并发编程的深海",
+      "favorite": "多线程和墨汁（日志）"
+    },
+    {
+      "id": 16,
+      "name": "蝴蝶",
+      "nameEn": "Butterfly",
+      "emoji": "🦋",
+      "ascii": [
+        "  \\\\ /",
+        "   oVo",
+        "  / \\",
+        " <   >",
+        "  \\\\ /"
+      ],
+      "personality": "优雅轻盈，喜欢美化代码",
+      "habitat": "UI/UX 的花丛中",
+      "favorite": "CSS 动画和花蜜"
+    },
+    {
+      "id": 17,
+      "name": "乌龟",
+      "nameEn": "Turtle",
+      "emoji": "🐢",
+      "ascii": [
+        "   _____",
+        "  /     \\",
+        " |  o o  |",
+        "  \\\\  -  /",
+        "   |===|",
+        "  /_____\\\\"
+      ],
+      "personality": "稳扎稳打，慢但可靠",
+      "habitat": "遗留代码的壳里",
+      "favorite": "向后兼容和生菜"
+    },
+    {
+      "id": 18,
+      "name": "恐龙",
+      "nameEn": "Dino",
+      "emoji": "🦕",
+      "ascii": [
+        "       .-.",
+        "      (o o)",
+        "      (| |)",
+        "     /| | |\\\\",
+        "    (_/   \\_)",
+        "   / /     \\ \\",
+        "  `\"\"       `\"\""
+      ],
+      "personality": "古老而强大，精通底层原理",
+      "habitat": "内核和编译器时代",
+      "favorite": "C 语言和史前 commit"
+    }
+  ]
+}

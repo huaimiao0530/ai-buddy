@@ -1,0 +1,94 @@
+{
+  "hats": [
+    {
+      "id": 1,
+      "name": "无",
+      "nameEn": "None",
+      "emoji": "",
+      "ascii": "",
+      "rarity": "Common",
+      "description": "自然本色，不加修饰"
+    },
+    {
+      "id": 2,
+      "name": "棒球帽",
+      "nameEn": "Baseball Cap",
+      "emoji": "🧢",
+      "ascii": "  _____  ",
+      "rarity": "Common",
+      "description": "标准开发者装备"
+    },
+    {
+      "id": 3,
+      "name": "礼帽",
+      "nameEn": "Top Hat",
+      "emoji": "🎩",
+      "ascii": "  _____  \n /     \\",
+      "rarity": "Uncommon",
+      "description": "优雅的代码绅士"
+    },
+    {
+      "id": 4,
+      "name": "皇冠",
+      "nameEn": "Crown",
+      "emoji": "👑",
+      "ascii": "   |||   \n  _|||_  ",
+      "rarity": "Rare",
+      "description": "代码之王"
+    },
+    {
+      "id": 5,
+      "name": "毕业帽",
+      "nameEn": "Graduation Cap",
+      "emoji": "🎓",
+      "ascii": "  _____  \n /_____\\",
+      "rarity": "Uncommon",
+      "description": "学无止境"
+    },
+    {
+      "id": 6,
+      "name": "派对帽",
+      "nameEn": "Party Hat",
+      "emoji": "🎉",
+      "ascii": "   /\\   \n  /  \\  ",
+      "rarity": "Common",
+      "description": "每个 commit 都是派对"
+    },
+    {
+      "id": 7,
+      "name": "安全帽",
+      "nameEn": "Hard Hat",
+      "emoji": "⛑️",
+      "ascii": "  _____  \n |_____| ",
+      "rarity": "Common",
+      "description": "安全第一，测试第二"
+    },
+    {
+      "id": 8,
+      "name": "巫师帽",
+      "nameEn": "Wizard Hat",
+      "emoji": "🧙",
+      "ascii": "   /\\   \n  /__\\  ",
+      "rarity": "Rare",
+      "description": "用魔法写代码（正则）"
+    },
+    {
+      "id": 9,
+      "name": "厨师帽",
+      "nameEn": "Chef Hat",
+      "emoji": "👨‍🍳",
+      "ascii": "  (ooo)  \n  (ooo)  ",
+      "rarity": "Uncommon",
+      "description": "烹饪代码的大厨"
+    },
+    {
+      "id": 10,
+      "name": "光环",
+      "nameEn": "Halo",
+      "emoji": "😇",
+      "ascii": "  .---.  ",
+      "rarity": "Epic",
+      "description": "代码如圣人般纯净"
+    }
+  ]
+}

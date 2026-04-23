@@ -1,0 +1,94 @@
+{
+  "eyes": [
+    {
+      "id": 1,
+      "name": "标准",
+      "nameEn": "Standard",
+      "emoji": "👀",
+      "ascii": "o o",
+      "rarity": "Common",
+      "description": "经典款，永不过时"
+    },
+    {
+      "id": 2,
+      "name": "大眼睛",
+      "nameEn": "Big Eyes",
+      "emoji": "🥺",
+      "ascii": "O O",
+      "rarity": "Common",
+      "description": "水汪汪，无辜感拉满"
+    },
+    {
+      "id": 3,
+      "name": "眯眼",
+      "nameEn": "Squint",
+      "emoji": "😑",
+      "ascii": "- -",
+      "rarity": "Common",
+      "description": "审视你的代码中..."
+    },
+    {
+      "id": 4,
+      "name": "眨眼",
+      "nameEn": "Wink",
+      "emoji": "😉",
+      "ascii": "o -",
+      "rarity": "Uncommon",
+      "description": "对你抛媚眼"
+    },
+    {
+      "id": 5,
+      "name": "爱心眼",
+      "nameEn": "Heart Eyes",
+      "emoji": "😍",
+      "ascii": "♥ ♥",
+      "rarity": "Rare",
+      "description": "看到优雅的代码时"
+    },
+    {
+      "id": 6,
+      "name": "墨镜",
+      "nameEn": "Sunglasses",
+      "emoji": "😎",
+      "ascii": "◉ ◉",
+      "rarity": "Uncommon",
+      "description": "代码太酷，需要保护"
+    },
+    {
+      "id": 7,
+      "name": "星星眼",
+      "nameEn": "Star Eyes",
+      "emoji": "🤩",
+      "ascii": "* *",
+      "rarity": "Rare",
+      "description": "遇到神级算法时"
+    },
+    {
+      "id": 8,
+      "name": " sleepy",
+      "nameEn": "Sleepy",
+      "emoji": "😴",
+      "ascii": "- -",
+      "rarity": "Common",
+      "description": "深夜编程伴侣"
+    },
+    {
+      "id": 9,
+      "name": "愤怒",
+      "nameEn": "Angry",
+      "emoji": "😠",
+      "ascii": "> <",
+      "rarity": "Uncommon",
+      "description": "看到 bug 时的表情"
+    },
+    {
+      "id": 10,
+      "name": "发光",
+      "nameEn": "Glowing",
+      "emoji": "✨",
+      "ascii": "@ @",
+      "rarity": "Epic",
+      "description": "传说中能看透一切的双眼"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "userId": "huaimiao0530",
+  "seed": 1730675859,
+  "name": "超级章鱼仔",
+  "species": {
+    "id": 15,
+    "name": "章鱼",
+    "nameEn": "Octopus",
+    "emoji": "🐙",
+    "ascii": [
+      "    .-.",
+      "   (o o)",
+      "   (| |)",
+      "  /| | |\\\\",
+      " (* | | | *)",
+      "  \\\\/\\\\/\\\\/\\\\/"
+    ],
+    "personality": "多线程大师，同时处理八个任务",
+    "habitat": "并发编程的深海",
+    "favorite": "多线程和墨汁（日志）"
+  },
+  "rarity": {
+    "name": "Rare",
+    "nameCn": "罕见",
+    "stars": "★★★",
+    "color": "#2196F3",
+    "description": "百里挑一，天赋异禀"
+  },
+  "shiny": false,
+  "attributes": {
+    "DEBUGGING": 100,
+    "WISDOM": 45,
+    "PATIENCE": 100,
+    "CHAOS": 66,
+    "SNARK": 69
+  },
+  "equipment": {
+    "hat": {
+      "name": "厨师帽",
+      "nameEn": "Chef Hat",
+      "emoji": "👨‍🍳",
+      "ascii": "  (ooo)  \n  (ooo)  ",
+      "description": "烹饪代码的大厨"
+    },
+    "eyes": {
+      "name": "标准",
+      "nameEn": "Standard",
+      "emoji": "👀",
+      "ascii": "o o",
+      "description": "经典款，永不过时"
+    }
+  },
+  "generatedAt": "2026-04-23T07:12:14.082Z"
+}

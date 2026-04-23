@@ -1,0 +1,70 @@
+{
+  "rarities": [
+    {
+      "id": 1,
+      "name": "Common",
+      "nameCn": "普通",
+      "stars": "★",
+      "probability": 0.60,
+      "color": "#B0B0B0",
+      "bonus": {
+        "description": "平凡的起点，无限的可能",
+        "attributeModifier": 1.0
+      }
+    },
+    {
+      "id": 2,
+      "name": "Uncommon",
+      "nameCn": "稀有",
+      "stars": "★★",
+      "probability": 0.25,
+      "color": "#4CAF50",
+      "bonus": {
+        "description": "略有不同，已经脱颖而出",
+        "attributeModifier": 1.2
+      }
+    },
+    {
+      "id": 3,
+      "name": "Rare",
+      "nameCn": "罕见",
+      "stars": "★★★",
+      "probability": 0.10,
+      "color": "#2196F3",
+      "bonus": {
+        "description": "百里挑一，天赋异禀",
+        "attributeModifier": 1.5
+      }
+    },
+    {
+      "id": 4,
+      "name": "Epic",
+      "nameCn": "史诗",
+      "stars": "★★★★",
+      "probability": 0.04,
+      "color": "#9C27B0",
+      "bonus": {
+        "description": "传说中的存在",
+        "attributeModifier": 2.0
+      }
+    },
+    {
+      "id": 5,
+      "name": "Legendary",
+      "nameCn": "传说",
+      "stars": "★★★★★",
+      "probability": 0.01,
+      "color": "#FFD700",
+      "bonus": {
+        "description": "神话般的伙伴，万年一遇",
+        "attributeModifier": 3.0
+      }
+    }
+  ],
+  "shiny": {
+    "probability": 0.01,
+    "color": "#FF6B9D",
+    "description": "散发着神秘的光芒",
+    "attributeModifier": 1.5
+  }
+}
